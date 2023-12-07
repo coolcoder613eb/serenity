@@ -1,3 +1,4 @@
+set(CMAKE_BUILD_WITH_INSTALL_RPATH TRUE)
 add_subdirectory(AK)
 add_subdirectory(Kernel)
 add_subdirectory(LibAudio)
